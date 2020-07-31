@@ -16,4 +16,4 @@ List of private-listed projects are as follows:
 
 Please email me at leejohn24@berkeley.edu to view these projects. 
 
-I have made these projects private because they were done for my Data Strucutres class (CS61B) and I do not want my code to assist potential cheating for future students.
+I have made these projects private because they were done for my Data Strucutres class (CS61B) and I do not want my code to assist potential cheating for students in future semesters.
