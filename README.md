@@ -1,4 +1,4 @@
-# Private Projects
+# Personal Projects
 List of private-listed projects are as follows:
 
 1. <b>Mini-git</b> -- A local version-control system that can run and execute Git commands, such as add, remove, commit, branch, status, log, and checkout through serialization and I/O File manipulation.
